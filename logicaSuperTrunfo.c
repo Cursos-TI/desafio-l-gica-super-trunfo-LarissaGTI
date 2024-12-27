@@ -14,8 +14,7 @@ int main() {
     char cidadeA, cidadeB[40];
     char codigoA, codigoB[8];
     float areaA, areaB;
-    float pibA, pibB;
-    
+    float pibA, pibB   
     // Cadastro das Cartas:
     // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
     // utilizando a função scanf para capturar as entradas.
